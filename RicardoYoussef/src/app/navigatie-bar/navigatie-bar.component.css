@@ -1,0 +1,47 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: 10% 69% 7% 7% 7%;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    height: 5em;
+  }
+
+  hr{
+      border: 1px solid white;
+  }
+
+.logo{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 3em;
+    margin-top: 0.25em;
+    margin-left: 0.3em;
+}
+
+button{
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    background: none;
+    border: none;
+    color: white;
+    font-size: large;
+    margin-top: 1.5em;
+    cursor: pointer;
+}
+
+.underline{
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    background: none;
+    border: none;
+    color: white;
+    font-size: large;
+    margin-top: 1.5em;
+    cursor: pointer;
+    border-bottom: 0.5em solid white;
+    
+}
+
+  .div-1{
+    text-align: center;
+  }

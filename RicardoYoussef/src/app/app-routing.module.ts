@@ -6,8 +6,12 @@ import { GalerijComponent } from './galerij/galerij.component';
 
 
 const routes: Routes = [
+  {
+    path: '',
+    redirectTo: '/home',
+    pathMatch: 'full'
+  },
   { path: 'home', component: HomeComponent },
-  { path: 'navigatie-bar', component: NavigatieBarComponent },
   { path: 'galerij', component: GalerijComponent }
 ];
 
