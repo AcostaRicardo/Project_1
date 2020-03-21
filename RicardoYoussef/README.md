@@ -4,10 +4,16 @@ Events
 Contact 
 Menu
 
+
 ## HomePagina
-titel
-achtergrond Slide show
+
+Titel
+Achtergrond Slide show
 Met keuze om te kiezen foto's
+
+
 ## Footer
-Contact Info Gallerij
+Contact 
+Info 
+Gallerij
 
